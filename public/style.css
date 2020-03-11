@@ -1,0 +1,93 @@
+html,
+body {
+    padding: 0;
+    margin: 0;
+    font-size: 3vh;
+    overflow-x: hidden;
+}
+
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding-bottom: 5vh;
+    font-size: 10vw;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+section {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.num {
+    font-size: 10vw;
+}
+
+section div {
+    padding: 5vw;
+    display: block;
+}
+
+.col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+section div * {
+    margin: 0;
+}
+
+section img {
+    width: 60vw;
+    height: auto;
+    max-height: 60vh;
+}
+
+section#infected-section {
+    background-color: #F7EE7F;
+    color: #333;
+}
+
+section#healed-section {
+    background-color: #90BE6D;
+    color: #eee;
+}
+
+section#dead-section {
+    background-color: #B75D69;
+    color: #eee;
+}
+
+section#quarantined-section {
+    background-color: #533A71;
+    color: #eee;
+}
+
+section#tested-section {
+    background-color: #70D6FF;
+}
+
+section#intro-section {
+    background-color: #273043;
+    padding-top: 10vh;
+    color: #eee;
+}
+
+section#intro-section h2 {
+  font-size: 10vh;
+}
+
+section#intro-section img {
+  max-height: 30vh;
+}
+
+section#intro-section a {
+    color: #eee;
+}
