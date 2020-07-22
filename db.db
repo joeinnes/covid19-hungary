@@ -1,0 +1,541 @@
+{"infected":895,"healed":94,"dead":58,"quarantined":0,"samples":0,"dateTime":{"$$date":1586348822968},"_id":"03t4gexNLuVdxhe9"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584250942798},"_id":"0DSMts6agXgJGqwG"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926572681},"_id":"0Dewd86QcHOyfVH5"}
+{"infected":"408","healed":"34","dead":"13","quarantined":"71","samples":"12 148","dateTime":{"$$date":1585528065558},"_id":"0G8ltw8FBhg0dvP2"}
+{"infected":2998,"healed":629,"dead":340,"quarantined":0,"samples":0,"dateTime":{"$$date":1588508650686},"_id":"0NQEohz3M36RLjTG"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586141419884},"_id":"0XCwclHbdyd4eDyr"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584247923028},"_id":"0b8kPzCnEKVQqx9d"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583995976262},"_id":"0dxG9QJjKlAVo0oL"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926250990},"_id":"0iaDoNrk8GLJW5qw"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584982752939},"_id":"0uFW4lQ3W7vEmOlQ"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586177601824},"_id":"0yKrRNspjPhdKeB4"}
+{"infected":4234,"healed":3036,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594555035632},"_id":"0zAGdoexWRYybbH0"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584384103355},"_id":"16owAyMXhv7FIyuC"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587100109767},"_id":"1GUvar7xDRvt4NDc"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584570740855},"_id":"1GgF2hHPnNRgOwEd"}
+{"infected":0,"healed":6,"dead":37,"quarantined":0,"samples":0,"dateTime":{"$$date":1589572078554},"_id":"1KeRsOVoD3nY8Hj8"}
+{"infected":2168,"healed":295,"dead":225,"quarantined":0,"samples":0,"dateTime":{"$$date":1587556881409},"_id":"1T2Y2vTfN1IWs9D3"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584230002894},"_id":"1XF4LHzQyWlRtwx8"}
+{"infected":"261","healed":"28","dead":"10","quarantined":"100","samples":"8 005","dateTime":{"$$date":1585222012668},"_id":"1oQ31vmsFeRHfymq"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584681596437},"_id":"22undD7DV8hLmEsW"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584572177993},"_id":"231Z4Bi79Nuatu8o"}
+{"infected":2443,"healed":458,"dead":262,"quarantined":0,"samples":0,"dateTime":{"$$date":1587824248391},"_id":"2BEuOUQpCSCcCZol"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584799614781},"_id":"2Nc5OPxmpMMu63cV"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584717604042},"_id":"2PggWMdzon9oiG1O"}
+{"infected":2942,"healed":625,"dead":335,"quarantined":0,"samples":0,"dateTime":{"$$date":1588405136195},"_id":"2TPmy5q9wGnbqsLi"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587068744313},"_id":"2ggJi8ypJ17mSCoJ"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584474542792},"_id":"2irvHfQfSBpuGNdr"}
+{"infected":1834,"healed":231,"dead":172,"quarantined":0,"samples":0,"dateTime":{"$$date":1587209225576},"_id":"2jqff6vVLy82cSwd"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584907142326},"_id":"2tTlAAeKYkdKSL10"}
+{"infected":"300","healed":"34","dead":"10","quarantined":"84","samples":"9 275","dateTime":{"$$date":1585302991889},"_id":"2wz62LARMKjwszNj"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587077362149},"_id":"2z013h584Nazr4wx"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584092022263},"_id":"30yAZE7fGyn998L8"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586139520356},"_id":"3C6D3DeMWQf5jWAw"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584677059216},"_id":"3RodRxBGUYlY7SJT"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584943113840},"_id":"3SFQUJRUpx07mS37"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584149163098},"_id":"3ZZZBmfeD9IBsyUM"}
+{"infected":3284,"healed":958,"dead":421,"quarantined":0,"samples":0,"dateTime":{"$$date":1589259905134},"_id":"3ua3guyyoShNUEwe"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586141755370},"_id":"4AmGnRS8gKtpuI45"}
+{"infected":3556,"healed":1412,"dead":467,"quarantined":0,"samples":0,"dateTime":{"$$date":1589874878897},"_id":"4HO4ZL6phI03UoZ6"}
+{"infected":"300","healed":"34","dead":"10","quarantined":"84","samples":"9 275","dateTime":{"$$date":1585334103510},"_id":"4bAqlPhPB0U72nw2"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586638503522},"_id":"4igHRf5NA2hYyXiJ"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584107763679},"_id":"4pRBY5hCx4G7icgi"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585610410283},"_id":"4rHqjaXNwQj9Q7iB"}
+{"infected":"226","healed":"21","dead":"10","quarantined":"85","samples":"6 817","dateTime":{"$$date":1585167934131},"_id":"4uMZvn8gNH2vITfW"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586227903210},"_id":"4wNpF5BzhXhR5cPi"}
+{"infected":"16","healed":"0","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584029418248},"_id":"51qyKqga71QX5VIF"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584308589843},"_id":"5D5JA9LRpLX413Ro"}
+{"infected":"16","healed":"0","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584012897139},"_id":"5HisugGNOt0fyea6"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586574043226},"_id":"5Wm2JJxNflfQPCMZ"}
+{"infected":1763,"healed":207,"dead":156,"quarantined":0,"samples":0,"dateTime":{"$$date":1587103424146},"_id":"5fTIyN6kMjg1a3Aw"}
+{"infected":817,"healed":71,"dead":47,"quarantined":0,"samples":0,"dateTime":{"$$date":1586246885630},"_id":"6Em3zfhqNbnku8Lp"}
+{"infected":4127,"healed":2663,"dead":578,"quarantined":0,"samples":0,"dateTime":{"$$date":1593204321538},"_id":"6HPM6fI2Zz0lxY7D"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584332346447},"_id":"6nbakCmvlzjI3j2R"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586117160278},"_id":"6rw5e2Mq9Z9kFPrX"}
+{"infected":"187","healed":"21","dead":"8","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585036253250},"_id":"7CZ9RRi3PyQ9PCZm"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584378656671},"_id":"7DMFCGq69i259MXi"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583943372261},"_id":"7E1QzDb8LO8acl70"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584529211622},"_id":"7NqJNi1Zno1z4DAa"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585625903255},"_id":"7jIIdrEL5ebIEUvY"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585598757746},"_id":"7mWki0lJXlR42JrR"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586654559422},"_id":"7v6zfqO8lmZvp0bi"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584726609839},"_id":"82NFC9NMS40BKDGF"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584129702393},"_id":"870YCQjjrE4FpNNe"}
+{"infected":1763,"healed":207,"dead":156,"quarantined":0,"samples":0,"dateTime":{"$$date":1587167651023},"_id":"89Axjlivel7PERXh"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584549490633},"_id":"8AYvsoJsWmGa61WP"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584135265053},"_id":"8ESag4t5GGHArpIA"}
+{"infected":"32","healed":"1","dead":"0","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584272969750},"_id":"8HxuI28p3unfB1Yw"}
+{"infected":3713,"healed":1655,"dead":482,"quarantined":0,"samples":0,"dateTime":{"$$date":1590291147466},"_id":"8Wjmag96LEPEvs78"}
+{"infected":"32","healed":"1","dead":"0","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584273601389},"_id":"8X2ay1yVak7H0XB0"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586179196496},"_id":"8qgwVEvpEFLBzeCX"}
+{"infected":2284,"healed":390,"dead":239,"quarantined":0,"samples":0,"dateTime":{"$$date":1587702091364},"_id":"93PwFK6C3H6uhfTY"}
+{"infected":4229,"healed":2974,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594469570223},"_id":"9JZAQCY0Myu7OYDc"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584889095865},"_id":"9X5j0g4E16KHJJxj"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585008975040},"_id":"9dC69aPq5ZxzVBK7"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586202531202},"_id":"9sqKvmJze3FCa4A1"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585560338577},"_id":"9wn5BsmZtfJL0ee8"}
+{"infected":1410,"healed":118,"dead":99,"quarantined":0,"samples":0,"dateTime":{"$$date":1586725760422},"_id":"A0lGZPtJLO95sl0K"}
+{"infected":4220,"healed":2887,"dead":591,"quarantined":0,"samples":0,"dateTime":{"$$date":1594299956290},"_id":"A3zPHim8li60cyQE"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584642802005},"_id":"A9h0JoWpx6FhIiKt"}
+{"infected":4053,"healed":2447,"dead":555,"quarantined":0,"samples":0,"dateTime":{"$$date":1591989821835},"_id":"AD7pCOKXUbYRC1pH"}
+{"infected":817,"healed":71,"dead":47,"quarantined":0,"samples":0,"dateTime":{"$$date":1586245272861},"_id":"AJtzXoEVvKEqPe2a"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584148295831},"_id":"APvSCzw8ZRXMJiuq"}
+{"infected":1834,"healed":231,"dead":172,"quarantined":0,"samples":0,"dateTime":{"$$date":1587230307967},"_id":"AeqzO8JwHKUmb1wm"}
+{"infected":"131","healed":"7","dead":"4","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584864485926},"_id":"AeyQr5acOvbipMIr"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584351324987},"_id":"AqFVJnCrt8zCz1Hg"}
+{"infected":3284,"healed":958,"dead":421,"quarantined":0,"samples":0,"dateTime":{"$$date":1589259905149},"_id":"B2UO1XohCF7dSMMq"}
+{"infected":4183,"healed":2811,"dead":589,"quarantined":0,"samples":0,"dateTime":{"$$date":1593969089352},"_id":"BDwZOpGexeXyyIAo"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585607852706},"_id":"BEWZ95THQSjJfzsy"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584843939045},"_id":"BMHML3rDNBW1867W"}
+{"infected":3111,"healed":759,"dead":373,"quarantined":0,"samples":0,"dateTime":{"$$date":1588780737527},"_id":"BcB3EYq5By9HoqIT"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586123532931},"_id":"C10r9QSu0vZAxi2Y"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585015329817},"_id":"C6IoTfpbYmfItwoD"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584173005156},"_id":"C7AeTgcfDwquHeoZ"}
+{"infected":1579,"healed":192,"dead":134,"quarantined":0,"samples":0,"dateTime":{"$$date":1586953506484},"_id":"CJ6EJ4FPyOmvxWYz"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583934363955},"_id":"CQZ9EFNOE3NtUTYx"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584167123864},"_id":"CRS5qdnJkRgmMZGy"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584610710292},"_id":"Cc4rm4nIGQHplQvQ"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587033409754},"_id":"ClC6nyf6bVolVnEz"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584203073039},"_id":"CprAuplXhj4io8lT"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584661523792},"_id":"Cqny7XI7RPy48NIh"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584840324053},"_id":"Cr7phK5i5nyNplmd"}
+{"infected":2649,"healed":516,"dead":291,"quarantined":0,"samples":0,"dateTime":{"$$date":1588085818872},"_id":"CrkbFm7jjMMoftoE"}
+{"infected":0,"healed":6,"dead":37,"quarantined":0,"samples":0,"dateTime":{"$$date":1589572078355},"_id":"Cum3ANfH0T97TQ1I"}
+{"infected":"492","healed":"37","dead":"16","quarantined":"61","samples":"14 146","dateTime":{"$$date":1585639626648},"_id":"Cxkq3Ut0qP7qPb7r"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584531714927},"_id":"Cy7KyFATFhGDHdRn"}
+{"infected":3921,"healed":2160,"dead":532,"quarantined":0,"samples":0,"dateTime":{"$$date":1591084748970},"_id":"D0dCr5sm6oO3VXCv"}
+{"infected":"408","healed":"34","dead":"13","quarantined":"71","samples":"12 148","dateTime":{"$$date":1585535151287},"_id":"D2a4EnWLwrMhYcou"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586204438840},"_id":"D7i0eh9lzbVIbnHi"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584777483402},"_id":"DEGmtGGDLNqBZTDU"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586659143273},"_id":"DF2XT7MRIBlcHeGn"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584369609851},"_id":"DImXl1ilm5mD6m1K"}
+{"infected":3284,"healed":958,"dead":421,"quarantined":0,"samples":0,"dateTime":{"$$date":1589238820964},"_id":"DShmWaxzAbTvUIc6"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585618330735},"_id":"DXI6DFox3ytNvhPq"}
+{"infected":2583,"healed":498,"dead":280,"quarantined":0,"samples":0,"dateTime":{"$$date":1587996615278},"_id":"DZQkKl9ORahgpSfQ"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584528876387},"_id":"DulqkX70SNIOBXwD"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585549019008},"_id":"DvRsu7LL6YSmDrDM"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585581712593},"_id":"DxvIA1DyL1qHQKr9"}
+{"infected":2500,"healed":485,"dead":272,"quarantined":0,"samples":0,"dateTime":{"$$date":1587919735386},"_id":"E1bZ8i3lxIzsKIK2"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584702304059},"_id":"EA480St2Db2C8LDp"}
+{"infected":"85","healed":"2","dead":"1","quarantined":"124","samples":"3 007","dateTime":{"$$date":1584686105033},"_id":"EBmCPvwAlACMAtcU"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584453623684},"_id":"EHR1fUMgCi1rbnlV"}
+{"infected":895,"healed":94,"dead":58,"quarantined":0,"samples":0,"dateTime":{"$$date":1586397649689},"_id":"ENiVM894MDIvvVec"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584232669952},"_id":"Ejld71EsRl4ngKuZ"}
+{"infected":2775,"healed":581,"dead":312,"quarantined":0,"samples":0,"dateTime":{"$$date":1588297247921},"_id":"Ew4le2DGmsxTeYxI"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584875097767},"_id":"ExseTDEOjDg3P2XJ"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584212103295},"_id":"F2k5almwJvQFqRXD"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584889850048},"_id":"FCRVxF4eCrFG5GDx"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584128879674},"_id":"FHH01rYSEy1jutVr"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584591373704},"_id":"FJWP2Eg87KGrn05W"}
+{"infected":4229,"healed":2974,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594525636337},"_id":"Fa53Qg9YljxtIQqL"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586538743323},"_id":"Fak0Ue69Ka5Z7SAg"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584378227583},"_id":"FfGMxAnOrf5W8wd1"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585556432455},"_id":"Fit5Z9RPU0ArupY0"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584306425977},"_id":"FxLKGV4YNyXqiNPS"}
+{"infected":3921,"healed":2160,"dead":532,"quarantined":0,"samples":0,"dateTime":{"$$date":1591107308944},"_id":"FzZU0tHJAmf46Xo7"}
+{"infected":3921,"healed":2160,"dead":532,"quarantined":0,"samples":0,"dateTime":{"$$date":1591084748992},"_id":"GenLWQKI61CLdnFv"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584934133447},"_id":"GgMrtZKMasJwuhBn"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584278728051},"_id":"GrPCvFtOLMBIlqsd"}
+{"infected":4205,"healed":2874,"dead":589,"quarantined":0,"samples":0,"dateTime":{"$$date":1594179850562},"_id":"HHvXi901T2zONRI5"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926377743},"_id":"HM3Fi1YRWWyZqPty"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584515628421},"_id":"HPjKTO1HhZZI0VJk"}
+{"infected":"85","healed":"7","dead":"4","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584764526135},"_id":"HQpRoQUcGoL9Uz5D"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583956759477},"_id":"HVPMZnBuIkZk32SI"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586150357568},"_id":"HXxX6ugJpZw9mS9D"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585631906482},"_id":"HjSFaNPkPC1Lr4Zo"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584520053405},"_id":"HjsPmsZe6agFhGRH"}
+{"infected":"408","healed":"34","dead":"13","quarantined":"71","samples":"12 148","dateTime":{"$$date":1585531344849},"_id":"HrlBM8pFOLy9XzsK"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584970239371},"_id":"I7hqviJAuTUjKOXs"}
+{"infected":980,"healed":96,"dead":66,"quarantined":0,"samples":0,"dateTime":{"$$date":1586461328357},"_id":"IBHjnzTehC1pAeSK"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584805193733},"_id":"IEngKWiM0wVi8fRv"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584254032481},"_id":"IFwQtQIFvCc89n2X"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586620589095},"_id":"IppMuSv6N4OYTT3P"}
+{"infected":1763,"healed":207,"dead":156,"quarantined":0,"samples":0,"dateTime":{"$$date":1587187882305},"_id":"Iuv0gscNCwOQjEIO"}
+{"infected":1834,"healed":231,"dead":172,"quarantined":0,"samples":0,"dateTime":{"$$date":1587216935856},"_id":"IwQoE3QjsxT4QCSW"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584194084792},"_id":"J1kXX4iJApQd9J67"}
+{"infected":1579,"healed":192,"dead":134,"quarantined":0,"samples":0,"dateTime":{"$$date":1586956870999},"_id":"JMjONztFzfuLkLAq"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583946994441},"_id":"JPnRVIJ5g36e2mUm"}
+{"infected":4064,"healed":2476,"dead":559,"quarantined":0,"samples":0,"dateTime":{"$$date":1592088231731},"_id":"JQi4v23t5gZv1y5t"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584555934455},"_id":"JgLi10HtRsiI6wDM"}
+{"infected":2998,"healed":629,"dead":340,"quarantined":0,"samples":0,"dateTime":{"$$date":1588516312470},"_id":"JkHyPSVqinXOJFM8"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584461997677},"_id":"Jp516Tfwij0RKMs2"}
+{"infected":1579,"healed":192,"dead":134,"quarantined":0,"samples":0,"dateTime":{"$$date":1587002961062},"_id":"K2O7oO8VdbNcDThO"}
+{"infected":4210,"healed":2885,"dead":589,"quarantined":0,"samples":0,"dateTime":{"$$date":1594209756386},"_id":"K87Nv8rFBYK2Nif0"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586222985345},"_id":"KC7sZU51FULJViKc"}
+{"infected":4102,"healed":2590,"dead":572,"quarantined":0,"samples":0,"dateTime":{"$$date":1592850101913},"_id":"KJDTLHvsTx0he5hl"}
+{"infected":1834,"healed":231,"dead":172,"quarantined":0,"samples":0,"dateTime":{"$$date":1587273024096},"_id":"KOsWWkMs9u4Z0d1m"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584639373800},"_id":"KP3sowd1TtaawfHM"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584811749080},"_id":"KTMlO23RUlSXysc9"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584538116257},"_id":"KTf0EjasC3VZZ4zL"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587073890490},"_id":"KU24lyNoxxzUthBE"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584939306633},"_id":"KVDIhXBAxG4kWYsJ"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586761155536},"_id":"Ka8w8Fxkr62oLlDX"}
+{"infected":3313,"healed":1007,"dead":425,"quarantined":0,"samples":0,"dateTime":{"$$date":1589291547314},"_id":"Kax0GivQOcXuHBsB"}
+{"infected":4189,"healed":2860,"dead":589,"quarantined":0,"samples":0,"dateTime":{"$$date":1594101262951},"_id":"KbF0HVSPH3lLhgrF"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583940607888},"_id":"KlJ9YbaqtZ0VUGHo"}
+{"infected":0,"healed":6,"dead":37,"quarantined":0,"samples":0,"dateTime":{"$$date":1589571342920},"_id":"KouGAXCJOZYeJRi0"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584834315461},"_id":"Ky2qvtuYjzjJi3V9"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584934509735},"_id":"Kz1ZiG6KEktspes8"}
+{"infected":"85","healed":"7","dead":"1","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584699330556},"_id":"L8oJUmjoO0x8SMHk"}
+{"infected":4247,"healed":3073,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594644413350},"_id":"LAUTqgY3HiB4u9kE"}
+{"infected":"343","healed":"34","dead":"11","quarantined":"87","samples":"10 303","dateTime":{"$$date":1585453483687},"_id":"LINTjOqN5S30Nn2N"}
+{"infected":1763,"healed":207,"dead":156,"quarantined":0,"samples":0,"dateTime":{"$$date":1587106320737},"_id":"LK7uyvGhM1V9xFLl"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584699663262},"_id":"LNy7G1hpqiUWZN2I"}
+{"infected":4333,"healed":3223,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595204196770},"_id":"LV8GfvuyLmtlfvxc"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585616859894},"_id":"LW4UVbyTyvXx0Qmw"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584460794244},"_id":"LYPGYmFVqUDKgWqv"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584430885644},"_id":"LcUjsjYeIjaQLypw"}
+{"infected":2583,"healed":498,"dead":280,"quarantined":0,"samples":0,"dateTime":{"$$date":1588008406935},"_id":"LfxdlvcmiOQnvOnP"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584099935690},"_id":"LmuhFJNRCFqbZf0S"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584627432411},"_id":"LrT1FeghFMP2CMz8"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583965818258},"_id":"Luz7nVDSsYqiKAIS"}
+{"infected":3556,"healed":1412,"dead":467,"quarantined":0,"samples":0,"dateTime":{"$$date":1589938115357},"_id":"Lwu3VWLIzHQX28Lv"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584776026042},"_id":"M6G81T5NMfQNw0Ug"}
+{"infected":3341,"healed":1102,"dead":430,"quarantined":0,"samples":0,"dateTime":{"$$date":1589422946677},"_id":"M8blBQkjjOOmCdbJ"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584363812215},"_id":"M9rhYeC7U0XypfZb"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586187551992},"_id":"MU4ixQ9Av3kwUx7h"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586503895259},"_id":"MVVdmXRIOJqhhlgJ"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586231486001},"_id":"MZWIsoQBVdlpksNv"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586550219598},"_id":"MaO2VqFbxlt4iBko"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584547172294},"_id":"MiHUHOx2jyANbk4w"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584373331291},"_id":"MlyrggPazKbwo6rM"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584970743514},"_id":"Ms7VPvM0Jdw8yJmK"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585632246703},"_id":"Mvl99i1pCg64xn74"}
+{"infected":3313,"healed":1007,"dead":425,"quarantined":0,"samples":0,"dateTime":{"$$date":1589276708016},"_id":"MwmkSt0DUZsVff9S"}
+{"infected":1834,"healed":231,"dead":172,"quarantined":0,"samples":0,"dateTime":{"$$date":1587242432287},"_id":"N1Z9E5qrn9epxAdI"}
+{"infected":"408","healed":"34","dead":"13","quarantined":"71","samples":"12 148","dateTime":{"$$date":1585538704495},"_id":"NBgNMn7Wzn4mjAK5"}
+{"infected":"85","healed":"7","dead":"4","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584735670308},"_id":"NL4Yr10h5zEkt895"}
+{"infected":"187","healed":"21","dead":"8","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585041143465},"_id":"NMQxmjhkkZIPrS9t"}
+{"infected":1410,"healed":118,"dead":99,"quarantined":0,"samples":0,"dateTime":{"$$date":1586731751344},"_id":"Nh5mtRF6XUPRB8E1"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584500691547},"_id":"NiQvcD4CIkZ9QBxd"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586178409568},"_id":"NoF5EYowo7mUApdS"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584902265648},"_id":"NvEy4yMNyiSZzVB9"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584238470732},"_id":"Nxfrf3nsSNpJzsds"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1584005831790},"_id":"O5LqqdLCCfOPVKZC"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584158433960},"_id":"O9Lppi447n5kuZXt"}
+{"infected":3556,"healed":1412,"dead":467,"quarantined":0,"samples":0,"dateTime":{"$$date":1589885266212},"_id":"OET7wrRMVPY5iPlu"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584856965855},"_id":"OF0vFJBbl3psezxp"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584492663040},"_id":"OFM2ZJXtFf4auWHW"}
+{"infected":4157,"healed":2714,"dead":586,"quarantined":0,"samples":0,"dateTime":{"$$date":1593640143351},"_id":"OFR0C6926ANRrpzC"}
+{"infected":4014,"healed":2284,"dead":548,"quarantined":0,"samples":0,"dateTime":{"$$date":1591618064203},"_id":"OL5Fb3ZNPzNRgPFn"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584238952715},"_id":"OOGOa5w3wgiJnNeU"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584390951161},"_id":"OVPvTELJKAHWBmSU"}
+{"infected":"187","healed":"21","dead":"9","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585077115269},"_id":"Odqflg5xbQcqNM1c"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586146426923},"_id":"Oz8eNEnGOggPS0AQ"}
+{"infected":2863,"healed":609,"dead":323,"quarantined":0,"samples":0,"dateTime":{"$$date":1588312381846},"_id":"P3X1Hr8CUtEENQyg"}
+{"infected":"16","healed":"0","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584009225012},"_id":"P49vTaGBQHAiJC5N"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584802201170},"_id":"P8YuaASZMKQF7Nww"}
+{"infected":"300","healed":"34","dead":"10","quarantined":"100","samples":"9 275","dateTime":{"$$date":1585288479599},"_id":"PNRbUUwuQbJhLA2h"}
+{"infected":4258,"healed":3106,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594729488347},"_id":"PSAeAX7prQyRm2CR"}
+{"infected":2583,"healed":498,"dead":280,"quarantined":0,"samples":0,"dateTime":{"$$date":1587990685598},"_id":"PW1p4GgZyHv2OMjB"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584609382441},"_id":"PW2zBvOWxD0mg6M0"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583932534880},"_id":"Pb86JOImy1KYxPTX"}
+{"infected":3598,"healed":1454,"dead":470,"quarantined":0,"samples":0,"dateTime":{"$$date":1589990731579},"_id":"Pe2vpMgamu7q6MjE"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584293264239},"_id":"PlNLkIdNa0B3jwEi"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583961701800},"_id":"Pw6te3m9UUc2MsCg"}
+{"infected":"492","healed":"37","dead":"16","quarantined":"61","samples":"14 146","dateTime":{"$$date":1585637842673},"_id":"PzzkFWkY6DjCsa6C"}
+{"infected":"32","healed":"1","dead":"0","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584277888713},"_id":"Q1tJ2JaxazS26Yif"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583946994034},"_id":"Q21cEWuNqvKLDWRs"}
+{"infected":3990,"healed":2279,"dead":545,"quarantined":0,"samples":0,"dateTime":{"$$date":1591434622004},"_id":"QA28eZIdwsJOmRwV"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585589758200},"_id":"QPoqdl5i1Ccyw0pt"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583952702646},"_id":"QW2sLiNriSltIEnQ"}
+{"infected":2443,"healed":458,"dead":262,"quarantined":0,"samples":0,"dateTime":{"$$date":1587826013520},"_id":"QWqTKBGDwARFvmKJ"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587085162930},"_id":"Qe1eWFfw6Y1JFLOU"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584483642124},"_id":"Qho8XXIVB8cbDXhJ"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584925153125},"_id":"Qu9p3OB5xX4wK0GC"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584715452565},"_id":"Qv5EmGP4K9grBazn"}
+{"infected":"16","healed":"0","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584025492552},"_id":"R7QztpiPXvOsphsW"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584663533440},"_id":"RAz41X84niQdSIot"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584708636138},"_id":"RCnjeGXd1TQ006An"}
+{"infected":2863,"healed":609,"dead":323,"quarantined":0,"samples":0,"dateTime":{"$$date":1588376276054},"_id":"ROUcxE4REDm7uIdE"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585563873907},"_id":"RWKhEnBH81350yi7"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586764822156},"_id":"RZbRUdNe2deqr0qp"}
+{"infected":1763,"healed":207,"dead":156,"quarantined":0,"samples":0,"dateTime":{"$$date":1587165492246},"_id":"ReFbRih0nuMj5V0D"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583936181283},"_id":"RfFGyUXWBF1y4Ch4"}
+{"infected":980,"healed":96,"dead":66,"quarantined":0,"samples":0,"dateTime":{"$$date":1586488589515},"_id":"RrBg48I4mLz1d7co"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584370881501},"_id":"RsXfzb29Tp6rECl4"}
+{"infected":1512,"healed":122,"dead":122,"quarantined":0,"samples":0,"dateTime":{"$$date":1586857378609},"_id":"Rsq2T89iLFuY1Wxh"}
+{"infected":"226","healed":"21","dead":"10","quarantined":"85","samples":"6 817","dateTime":{"$$date":1585172500084},"_id":"RxO8QgY1lAy0Zylf"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926647427},"_id":"S1yLJzHCfekNCtPK"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584453321021},"_id":"S85ysJmbpCj4s8SW"}
+{"infected":817,"healed":71,"dead":47,"quarantined":0,"samples":0,"dateTime":{"$$date":1586240426691},"_id":"S9J54R06xhRfMraL"}
+{"infected":"32","healed":"1","dead":"0","quarantined":"79","samples":"1 236","dateTime":{"$$date":1584258721812},"_id":"SBPcJiV9B2mV0HgA"}
+{"infected":4339,"healed":3232,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595290383995},"_id":"SSrjwqjnUcwrRccm"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586583983910},"_id":"SbPOtNqqfAc4GtOx"}
+{"infected":4220,"healed":2887,"dead":591,"quarantined":0,"samples":0,"dateTime":{"$$date":1594345942661},"_id":"Si29YXRAIjy07dQy"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584553413274},"_id":"SsD8SwMJT8z8YbNE"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585628612509},"_id":"Szijm53yq0m8MJKJ"}
+{"infected":2649,"healed":516,"dead":291,"quarantined":0,"samples":0,"dateTime":{"$$date":1588075183113},"_id":"T70k9Y6V3lK4DV4q"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583938014043},"_id":"TCKPlIWtmPnhZWJi"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584227228928},"_id":"TGRmKEqMh24eyZEL"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587053421436},"_id":"TSIpvRy685bxbr3Z"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584583192295},"_id":"Tc3xi7QPkSIUmLxM"}
+{"infected":4014,"healed":2284,"dead":548,"quarantined":0,"samples":0,"dateTime":{"$$date":1591618064192},"_id":"Td2tJBYrVnnj7BHr"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584534494500},"_id":"ThN6TJJA7elOqZXK"}
+{"infected":4293,"healed":3220,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1595030913442},"_id":"TiNXpimo6uDWFVt0"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584505551566},"_id":"TlaGTeYYQIibKPpP"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584988277235},"_id":"TpijX1BHB0ihO0wf"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584136086338},"_id":"Tpwkey9TNzudRkSp"}
+{"infected":"39","healed":"2","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584395204295},"_id":"TxnTJu6Ucd8Fwy1U"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585621866116},"_id":"U6h0dnYzt3LjEv2x"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584449528563},"_id":"UBQ6OIVUPapWUAGe"}
+{"infected":"16","healed":"1","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584050692430},"_id":"UEY2FhuMZj1nVTkp"}
+{"infected":"131","healed":"7","dead":"4","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584866226837},"_id":"UGmblqn57AczmDEJ"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584197260664},"_id":"UPZw0ZPrkONnHSYj"}
+{"infected":3313,"healed":1007,"dead":425,"quarantined":0,"samples":0,"dateTime":{"$$date":1589260397870},"_id":"URZ1kSrywOTSyuea"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584565194919},"_id":"UZ7mwhAjmxYvuIS3"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585026112099},"_id":"UdTquXweMi50ScWv"}
+{"infected":4220,"healed":2887,"dead":591,"quarantined":0,"samples":0,"dateTime":{"$$date":1594300538931},"_id":"UvLmIBRHwnTUuC7J"}
+{"infected":3341,"healed":1102,"dead":430,"quarantined":0,"samples":0,"dateTime":{"$$date":1589385028369},"_id":"V1MxtnPn4DDrhsfl"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584459956547},"_id":"V43O0KGHv6gKoEap"}
+{"infected":3641,"healed":1509,"dead":473,"quarantined":0,"samples":0,"dateTime":{"$$date":1590055165159},"_id":"VBGeVx2R096n0RNX"}
+{"infected":4008,"healed":2279,"dead":546,"quarantined":0,"samples":0,"dateTime":{"$$date":1591583146754},"_id":"VRZEoM5Qfzjr50jG"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584952143805},"_id":"VXHYCFt6ofVmhxRS"}
+{"infected":4205,"healed":2874,"dead":589,"quarantined":0,"samples":0,"dateTime":{"$$date":1594179307759},"_id":"Vono88ptZWajV0ej"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584222988390},"_id":"W04wsvoidOUOpRVy"}
+{"infected":2098,"healed":287,"dead":213,"quarantined":0,"samples":0,"dateTime":{"$$date":1587469432207},"_id":"W2628ZWbtkwaCLbJ"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584557430304},"_id":"W2KKc7PjGV3EQuFg"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586168738005},"_id":"W2vf1uI2dC9eBZUj"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586170825321},"_id":"W91rvaXiGoO0yWRa"}
+{"infected":"343","healed":"34","dead":"11","quarantined":"87","samples":"10 303","dateTime":{"$$date":1585378794955},"_id":"WFNAXfDnD5oW76qt"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584288479253},"_id":"WIViImXZUmc1hDnD"}
+{"infected":4220,"healed":2887,"dead":591,"quarantined":0,"samples":0,"dateTime":{"$$date":1594318663629},"_id":"WJDRXycTZVHyVXma"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584536409717},"_id":"WLXPM0bsQcSpWDUv"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584847037038},"_id":"WMJXKHvUw0mdPZ5K"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584654503027},"_id":"WRFCcafMCR8Q2syB"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586808114755},"_id":"WSY5AxmjNbsagwCs"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585024320665},"_id":"WbQVPNpG9QGyNHY2"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586222407556},"_id":"WfSxUt3NQ8Eb0oW7"}
+{"infected":3341,"healed":1102,"dead":430,"quarantined":0,"samples":0,"dateTime":{"$$date":1589422065378},"_id":"WjQMaYDf0LSJXCIx"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584364470442},"_id":"Wy99Mpj7l043IjSS"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586594309613},"_id":"X22555AVWgmEXejZ"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585018353108},"_id":"X7A2e8gvbEBGEBRg"}
+{"infected":3313,"healed":1007,"dead":425,"quarantined":0,"samples":0,"dateTime":{"$$date":1589268454311},"_id":"X7FDJtbVR5Zjt2VU"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584523531334},"_id":"XBeTHIdPBinC6kla"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585634910668},"_id":"XX9GhvfFKh94DOIX"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586787205090},"_id":"XdzkZTpz7OjcS8ua"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586169143720},"_id":"Xn04JvDUSEv0qLIE"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584221072511},"_id":"XornldVOok2C7h3B"}
+{"infected":4293,"healed":3220,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1595030913429},"_id":"XtkiusSbyKnRAXJW"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586498621692},"_id":"Y4a4lL6rke8PkXXU"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586667271018},"_id":"Y7ScpM1Hcrz5C6I0"}
+{"infected":3473,"healed":1371,"dead":448,"quarantined":0,"samples":0,"dateTime":{"$$date":1589690920437},"_id":"YAMHXYKubLY6qlN5"}
+{"infected":2727,"healed":536,"dead":300,"quarantined":0,"samples":0,"dateTime":{"$$date":1588164246795},"_id":"YPZfj4B3zddSKpr7"}
+{"infected":4166,"healed":2721,"dead":587,"quarantined":0,"samples":0,"dateTime":{"$$date":1593717035329},"_id":"YzwwxYDP1tMLWhJ8"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584292194296},"_id":"Z2TDTqjwv6CuoIfG"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584540722927},"_id":"ZBLp3p1AzTVICdYd"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584161100267},"_id":"ZHBKjDHeTUfqbRit"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586769837090},"_id":"ZHZL2ZbuEAlDvavN"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584243004549},"_id":"ZIpViAwMkaLG1lQn"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584997295990},"_id":"ZLMX8MU8c3lJmUzA"}
+{"infected":3598,"healed":1454,"dead":470,"quarantined":0,"samples":0,"dateTime":{"$$date":1589978575339},"_id":"ZP6Mnsuj4FTStQGY"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585553129586},"_id":"ZSIBOYOeIEPTJqY8"}
+{"infected":1916,"healed":250,"dead":189,"quarantined":0,"samples":0,"dateTime":{"$$date":1587331734046},"_id":"ZUafCumt714FbYXf"}
+{"infected":4229,"healed":2974,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594514292707},"_id":"ZwcHHi3oWs4kCwgB"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585585026494},"_id":"a4K6mdQZdQLOlXBY"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926567181},"_id":"aajryzBRpFPj8nLJ"}
+{"infected":"85","healed":"7","dead":"1","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584690692475},"_id":"afyPFXGZhmu5Xrol"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586506812447},"_id":"amEaPbSFWwMHYCei"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585570999350},"_id":"ankPz6Rtaz57qEzV"}
+{"infected":4339,"healed":3232,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595290030627},"_id":"bIAVHE57hhlKI0jW"}
+{"infected":3556,"healed":1412,"dead":467,"quarantined":0,"samples":0,"dateTime":{"$$date":1589884522223},"_id":"bMyIUuHhwiZ4t8fT"}
+{"infected":3035,"healed":630,"dead":351,"quarantined":0,"samples":0,"dateTime":{"$$date":1588584129610},"_id":"bR5bcZMCfe7LbSXC"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584634685100},"_id":"bRCIArp9448P8jEK"}
+{"infected":3313,"healed":1007,"dead":425,"quarantined":0,"samples":0,"dateTime":{"$$date":1589282902213},"_id":"bVZs1RV6tge6iWjG"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584807930422},"_id":"bdfOECe7U9Zz5wm1"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584645462882},"_id":"bu9w9orIEsW9iuBM"}
+{"infected":4366,"healed":3283,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595402794706},"_id":"cLbJWbfGlpy6dl22"}
+{"infected":"408","healed":"34","dead":"13","quarantined":"71","samples":"12 148","dateTime":{"$$date":1585469802715},"_id":"cRkkjB6DUCY94iYg"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584982381382},"_id":"cUx4tugt5etRrBO0"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584386555134},"_id":"cgRiDM5KBU9zFIKJ"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584636459844},"_id":"ciaoUrjNFmWSfX6r"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584501693356},"_id":"cvKXlNazy2vX5tdc"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584312716198},"_id":"d0FnJJ3P9LNVv75a"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586837697161},"_id":"dDMU2lgXsNmW5kgx"}
+{"infected":3263,"healed":933,"dead":413,"quarantined":0,"samples":0,"dateTime":{"$$date":1589091195252},"_id":"daKLiqkw6Tr1cuCb"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584390629806},"_id":"daTir2ACoHBWk6dC"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586132472199},"_id":"ddhUQhdHYdadX41I"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583946994252},"_id":"dfUvIl2fhRktnSHT"}
+{"infected":"85","healed":"2","dead":"1","quarantined":"124","samples":"3 007","dateTime":{"$$date":1584686529670},"_id":"dvttZjfVC3dwvuKi"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926384748},"_id":"dwZdXSRAKV7mm0Y4"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586154855759},"_id":"eFl2uYU9pDwCG4Rj"}
+{"infected":4339,"healed":3232,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595243176900},"_id":"eJRNwsF2C8gfPc06"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586134020986},"_id":"eJnVVbz5pHWtgb8Q"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586194786876},"_id":"eO8lN6jt2uXHHYjg"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584898122744},"_id":"eOVgjEoF9MVuM7wC"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926609868},"_id":"eiL6iN1DWTAJ7fmM"}
+{"infected":"16","healed":"1","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584052872567},"_id":"elng5UXRCaqUnllx"}
+{"infected":1579,"healed":192,"dead":134,"quarantined":0,"samples":0,"dateTime":{"$$date":1587002961227},"_id":"ep3cuA3g2YKzL30J"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584368485295},"_id":"f8N3qHCH9rKcltdo"}
+{"infected":"300","healed":"34","dead":"10","quarantined":"84","samples":"9 275","dateTime":{"$$date":1585332337600},"_id":"f9c0fvn56T7uPoe8"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585599687267},"_id":"fIc5CUZu7fH3pNJ5"}
+{"infected":"187","healed":"21","dead":"8","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585033048217},"_id":"fPhYJU48KjhpAYpq"}
+{"infected":"187","healed":"21","dead":"9","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585061276290},"_id":"fTK8B94QPIeuF3WO"}
+{"infected":4229,"healed":2974,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594513640330},"_id":"fnA4rB89a4hwHOwJ"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586186587368},"_id":"fq4KPzYrLsZ3Aige"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587066274190},"_id":"g4WFGrThRamaj4Hk"}
+{"infected":4172,"healed":2752,"dead":588,"quarantined":0,"samples":0,"dateTime":{"$$date":1593809019148},"_id":"g5KSvfrjAuw4Mzmh"}
+{"infected":2500,"healed":485,"dead":272,"quarantined":0,"samples":0,"dateTime":{"$$date":1587917375945},"_id":"gA4502l77auGG8y8"}
+{"infected":3213,"healed":904,"dead":405,"quarantined":0,"samples":0,"dateTime":{"$$date":1589034287129},"_id":"gC7Lp9FfOItzsNf0"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585635806822},"_id":"gLxlM2KY54tzLoiN"}
+{"infected":1916,"healed":250,"dead":189,"quarantined":0,"samples":0,"dateTime":{"$$date":1587356013053},"_id":"ggdSYIWFyTKVhvTr"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584979218406},"_id":"gscdS4GSoUsQQiKL"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584131235994},"_id":"gyDtphUSapHvwG5C"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586195426261},"_id":"h40dsHjBYdpIMWo6"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584456936797},"_id":"h447QeRGCTRITOjr"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584835369424},"_id":"h927nPzN6a53CpLw"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583945190652},"_id":"hBHvsB2zf6sMmX2C"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586147529262},"_id":"hGtFAYCnXdgN0P23"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584803797553},"_id":"hMZpatF2jiwTF7nS"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584153178241},"_id":"hc5GydzjDocAa43m"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584388838899},"_id":"hvB3yGdCXDCpIHr3"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584723448791},"_id":"hxgZCYUV1y5SIrn8"}
+{"infected":3867,"healed":2142,"dead":524,"quarantined":0,"samples":0,"dateTime":{"$$date":1590866870131},"_id":"i6U0TGgKYgLT6dXA"}
+{"infected":733,"healed":66,"dead":34,"quarantined":0,"samples":0,"dateTime":{"$$date":1586138918145},"_id":"iERD69TDBK2qiUoi"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584816907816},"_id":"iKiMSDBp3DkkrZ3l"}
+{"infected":"85","healed":"7","dead":"1","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584694735618},"_id":"iMFIDVQASUbW8FNa"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584672543036},"_id":"iRAAhDS7ad7LlLi4"}
+{"infected":4366,"healed":3283,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595417887528},"_id":"iWsz7y3mQBHGyrXQ"}
+{"infected":2443,"healed":458,"dead":262,"quarantined":0,"samples":0,"dateTime":{"$$date":1587865361046},"_id":"ic2FbF60FFG5pAGQ"}
+{"infected":895,"healed":94,"dead":58,"quarantined":0,"samples":0,"dateTime":{"$$date":1586375800572},"_id":"ice02APQc9PoPIox"}
+{"infected":1410,"healed":118,"dead":99,"quarantined":0,"samples":0,"dateTime":{"$$date":1586708582613},"_id":"ip9h2C4A2jt3jbXD"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584123067039},"_id":"ipPPzPzLpSu0b3N0"}
+{"infected":1834,"healed":231,"dead":172,"quarantined":0,"samples":0,"dateTime":{"$$date":1587202964525},"_id":"iuWD97FwDqGTddV6"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583934358868},"_id":"iuissjeNh3XSrhJb"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585595750736},"_id":"j1ErtIslJA1ICN42"}
+{"infected":1916,"healed":250,"dead":189,"quarantined":0,"samples":0,"dateTime":{"$$date":1587351322086},"_id":"j2rxZBOtOXcXVvrD"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586764822260},"_id":"jKEp5zcbBr0DRnbc"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584961373188},"_id":"jM4IiYzrMpUDMb1G"}
+{"infected":4315,"healed":3222,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595117183445},"_id":"jQafnUEih90V94tE"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584778010050},"_id":"jaIkpj8LOoPgNuOd"}
+{"infected":2284,"healed":390,"dead":239,"quarantined":0,"samples":0,"dateTime":{"$$date":1587655669650},"_id":"jaU8u2sjV0akcAGc"}
+{"infected":980,"healed":96,"dead":66,"quarantined":0,"samples":0,"dateTime":{"$$date":1586486352802},"_id":"jqWbYWDPHUN1ACW2"}
+{"infected":"32","healed":"1","dead":"0","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584266754506},"_id":"jsrSXxiPC83spntn"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584894051684},"_id":"juADSkzjuHu74viq"}
+{"infected":0,"healed":6,"dead":37,"quarantined":0,"samples":0,"dateTime":{"$$date":1589571672195},"_id":"k2rMglvhRBcclLIA"}
+{"infected":"131","healed":"16","dead":"6","quarantined":"115","samples":"4 443","dateTime":{"$$date":1584912115987},"_id":"k9y2PUc1PGvvC9vR"}
+{"infected":"226","healed":"21","dead":"10","quarantined":"85","samples":"6 817","dateTime":{"$$date":1585169478985},"_id":"kEUnrQ9E0koc15BR"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586231842784},"_id":"kNjfJkrOf8Yf3jon"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584798907851},"_id":"kefB59pqIbt5ZBJF"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584834921564},"_id":"keuQtOELieRchn21"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584185759318},"_id":"kjciOEWNfI8ieLFA"}
+{"infected":"492","healed":"37","dead":"16","quarantined":"61","samples":"14 146","dateTime":{"$$date":1585643918259},"_id":"kn16Fyf3wmK5i5oP"}
+{"infected":3213,"healed":904,"dead":405,"quarantined":0,"samples":0,"dateTime":{"$$date":1589073708112},"_id":"kn7bajbmUpVPS8wo"}
+{"infected":4229,"healed":2974,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594480240394},"_id":"kyidoAnMycK6z2iP"}
+{"infected":"32","healed":"1","dead":"1","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584283261589},"_id":"l4UuneCIebqnp7lO"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584663945627},"_id":"lLiFcIZ6bg6fVGin"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584175956537},"_id":"lRHHBGt5NmKwRunL"}
+{"infected":1984,"healed":267,"dead":199,"quarantined":0,"samples":0,"dateTime":{"$$date":1587411196884},"_id":"lRw7JbSeDZ2jIthV"}
+{"infected":1916,"healed":250,"dead":189,"quarantined":0,"samples":0,"dateTime":{"$$date":1587348391109},"_id":"lWE8wjb7VjxGjbo4"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584372947659},"_id":"lYuTcTwG87tdFjGX"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584789938435},"_id":"lbzkLujRXqROgk3D"}
+{"infected":"492","healed":"37","dead":"16","quarantined":"61","samples":"14 146","dateTime":{"$$date":1585640080023},"_id":"lflHQ1IwUH6Mio1f"}
+{"infected":1763,"healed":207,"dead":156,"quarantined":0,"samples":0,"dateTime":{"$$date":1587113563508},"_id":"lh9ZJ6Tl6Q7fSxWs"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"137","samples":"1 470","dateTime":{"$$date":1584383792844},"_id":"lhNX9NpEHshaTZ74"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586213500403},"_id":"lpNDBWvfOYF5jMNu"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583926709311},"_id":"mNzWLeULcBdOIatj"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584102204795},"_id":"mUKCgxfEF0lsCOn2"}
+{"infected":4258,"healed":3106,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594772248670},"_id":"mX3pbgmXoQwuGc3f"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584681945151},"_id":"mb254Rc1nlFf0GNl"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586159389867},"_id":"md6Ob5ZhDihQt9EW"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584518374556},"_id":"mwrHXIXIpRwD1861"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584164690186},"_id":"nG0eBqH1HAkyZDOM"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584225737281},"_id":"nK5p5adjUuXZO8nl"}
+{"infected":4053,"healed":2447,"dead":555,"quarantined":0,"samples":0,"dateTime":{"$$date":1591984245564},"_id":"nO43bRsJVmex3axO"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586173138587},"_id":"nT6gtuGnV6pPNIqa"}
+{"infected":4189,"healed":2860,"dead":589,"quarantined":0,"samples":0,"dateTime":{"$$date":1594041988831},"_id":"nXVixKnogZXFhPwa"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584577571680},"_id":"nejgI8wPBs9vZdey"}
+{"infected":2775,"healed":581,"dead":312,"quarantined":0,"samples":0,"dateTime":{"$$date":1588277254352},"_id":"nh9fslpQHZTw3AxQ"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584465432560},"_id":"nkBJJLi3N1MLKu6u"}
+{"infected":3263,"healed":933,"dead":413,"quarantined":0,"samples":0,"dateTime":{"$$date":1589096304026},"_id":"nnDDVZlueqHZWVhs"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584947138280},"_id":"o3XG6euw7fAQmDK8"}
+{"infected":3473,"healed":1371,"dead":448,"quarantined":0,"samples":0,"dateTime":{"$$date":1589670448023},"_id":"oH8r2FUllsBvjgKk"}
+{"infected":"187","healed":"21","dead":"8","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585033370948},"_id":"oHGzopqhNlCEOV7w"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584780958854},"_id":"oMGEVCMnYAJdNuDU"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584432529490},"_id":"oXrU5Uwpah8YoJSy"}
+{"infected":"187","healed":"21","dead":"9","quarantined":"92","samples":"6 113","dateTime":{"$$date":1585061753618},"_id":"oaPa0161hOYdV3UX"}
+{"infected":4064,"healed":2476,"dead":559,"quarantined":0,"samples":0,"dateTime":{"$$date":1592104903804},"_id":"oiSv6HynP2Bt9do1"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584720784318},"_id":"oqgWFBYb7997V9GF"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584838982688},"_id":"ovF9LnwlnOiJ8Vo3"}
+{"infected":1652,"healed":199,"dead":142,"quarantined":0,"samples":0,"dateTime":{"$$date":1587072700446},"_id":"ovRjy1eocZXWYcfx"}
+{"infected":3931,"healed":2190,"dead":534,"quarantined":0,"samples":0,"dateTime":{"$$date":1591247596743},"_id":"oxXFhWCifuhhN2hI"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585580717879},"_id":"pCAxW1KGVpfR5ht2"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584513408659},"_id":"pDx4wxah2f3UnE5p"}
+{"infected":"16","healed":"0","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584020795990},"_id":"pPhi4kRhLLOUcLZ7"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584946079817},"_id":"pRI84utjTrcNzTGU"}
+{"infected":1410,"healed":118,"dead":99,"quarantined":0,"samples":0,"dateTime":{"$$date":1586725760351},"_id":"pSXV1J5wxMM3gWcF"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583934361770},"_id":"pdWZdlc9OlXlRrOH"}
+{"infected":"261","healed":"28","dead":"10","quarantined":"100","samples":"8 005","dateTime":{"$$date":1585226458488},"_id":"pf9kkxP5CsJPBYIA"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584367320496},"_id":"phAiysaAKYRBQbIb"}
+{"infected":0,"healed":6,"dead":37,"quarantined":0,"samples":0,"dateTime":{"$$date":1589539392882},"_id":"phoMDHhD6LxwE0Xk"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584093928880},"_id":"q4xPHEoD6ERrBLpi"}
+{"infected":3284,"healed":958,"dead":421,"quarantined":0,"samples":0,"dateTime":{"$$date":1589246052672},"_id":"q9EtQxQEtHt2Bt9B"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585549621533},"_id":"qF5q4akNZYxH8UoT"}
+{"infected":3380,"healed":1169,"dead":436,"quarantined":0,"samples":0,"dateTime":{"$$date":1589493630108},"_id":"qIZW10yDZ45JW2UW"}
+{"infected":1190,"healed":112,"dead":77,"quarantined":0,"samples":0,"dateTime":{"$$date":1586563868811},"_id":"qUAqFpKXQhfykNk3"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584104490348},"_id":"qcVxre5SAUp6M5wr"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585000059210},"_id":"qrNbaWPzZ6C9iD7R"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584479131943},"_id":"r3goZC88ySTpGwlz"}
+{"infected":3111,"healed":759,"dead":373,"quarantined":0,"samples":0,"dateTime":{"$$date":1588817635246},"_id":"rCSY16TR3B4qrXJu"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584584359107},"_id":"rHAKSfAGbp4DaECv"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586156613421},"_id":"rMH9BhiOHftVwUNY"}
+{"infected":4293,"healed":3220,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594998194863},"_id":"rSd112rIhhP0nMKC"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584466808651},"_id":"riOgIM2zZtVpzWI3"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585006197428},"_id":"rxvDtgolGngLJR2a"}
+{"infected":"226","healed":"21","dead":"10","quarantined":"85","samples":"6 817","dateTime":{"$$date":1585192310291},"_id":"s7mIRBcI8wDW70zU"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584365368771},"_id":"s8Fnlz67nhgMKnmF"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584184127267},"_id":"sLceIxygpcyPRvsZ"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584189660420},"_id":"sORnMd8Nra1lNfxm"}
+{"infected":"39","healed":"1","dead":"1","quarantined":"136","samples":"1 436","dateTime":{"$$date":1584373762515},"_id":"sRnyYwjSRvB2BQwV"}
+{"infected":"16","healed":"1","dead":"0","quarantined":"65","samples":"730","dateTime":{"$$date":1584082322456},"_id":"sRz5NJ1k5X18BAKj"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584975171870},"_id":"sTnAsTEKxNzmSFqt"}
+{"infected":3970,"healed":2245,"dead":542,"quarantined":0,"samples":0,"dateTime":{"$$date":1591422000820},"_id":"sj66eQqw8xO6f1BK"}
+{"infected":"13","healed":"0","dead":"0","quarantined":"69","samples":"609","dateTime":{"$$date":1583986121270},"_id":"sqlJc9YQQsUqSASB"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586232434086},"_id":"sub3AIIOjnSrqmSd"}
+{"infected":"226","healed":"21","dead":"10","quarantined":"85","samples":"6 817","dateTime":{"$$date":1585172964786},"_id":"t3T6U7K1SpaRDKNP"}
+{"infected":4293,"healed":3220,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1595024361232},"_id":"t5sj6oUXb63qlRFo"}
+{"infected":"492","healed":"37","dead":"16","quarantined":"61","samples":"14 146","dateTime":{"$$date":1585637841615},"_id":"t7QoS1mKqg8pMwCM"}
+{"infected":1916,"healed":250,"dead":189,"quarantined":0,"samples":0,"dateTime":{"$$date":1587288679254},"_id":"tBqVIraULmbNWt2m"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586643072526},"_id":"tDXyu7a81EvKpe9V"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584809257441},"_id":"u1dyZBDXDeh6lDgk"}
+{"infected":"85","healed":"7","dead":"3","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584717933006},"_id":"u2xKqV14ZHPfSDck"}
+{"infected":"50","healed":"2","dead":"1","quarantined":"137","samples":"1 587","dateTime":{"$$date":1584510713299},"_id":"ugs5C1XlDGv5wASK"}
+{"infected":4145,"healed":2685,"dead":585,"quarantined":0,"samples":0,"dateTime":{"$$date":1593429916216},"_id":"uiJhZMJuHY3oKJEd"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584853570488},"_id":"up3L50txjLUr86Fy"}
+{"infected":"32","healed":"1","dead":"0","quarantined":"159","samples":"1 236","dateTime":{"$$date":1584274099495},"_id":"utkH91iZX6Dw8dHz"}
+{"infected":"167","healed":"21","dead":"8","quarantined":"101","samples":"5 515","dateTime":{"$$date":1585012072594},"_id":"vPUfpZGXgV8GTtpX"}
+{"infected":0,"healed":6,"dead":37,"quarantined":0,"samples":0,"dateTime":{"$$date":1589540396149},"_id":"vb6kda5kR5OVv265"}
+{"infected":2863,"healed":609,"dead":323,"quarantined":0,"samples":0,"dateTime":{"$$date":1588347679273},"_id":"vvhSy7ZZz6PJBPdL"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584226926813},"_id":"w2j6Kv3TCuS5IODu"}
+{"infected":4258,"healed":3106,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594772618639},"_id":"wBC4QwM8hnulcvEn"}
+{"infected":3313,"healed":1007,"dead":425,"quarantined":0,"samples":0,"dateTime":{"$$date":1589272273201},"_id":"weycIH0dVoBOAqB3"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585626381351},"_id":"wi5Yy2Ue1fmTXAzm"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584574082065},"_id":"wnTSmMUpJbpaaQEw"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584668879465},"_id":"xCxr2tmzls3siGSS"}
+{"infected":1310,"healed":115,"dead":85,"quarantined":0,"samples":0,"dateTime":{"$$date":1586666691051},"_id":"xQhMEsIAAAxZ5rmg"}
+{"infected":4333,"healed":3223,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595169268676},"_id":"xZ6ZHIEdm6OVNq3D"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586192595904},"_id":"xmyYliSlaBRxsNW0"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584676736487},"_id":"xnWFYS6RgybOjxVX"}
+{"infected":"85","healed":"7","dead":"4","quarantined":"116","samples":"3 007","dateTime":{"$$date":1584773638147},"_id":"xs5AtbPk3W99T4DG"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584665720156},"_id":"xtdrmN7lLywLEH6x"}
+{"infected":"30","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584219334718},"_id":"xvDMGZ4H2YFLot49"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584848119143},"_id":"y05bZMoyNm1KZpK1"}
+{"infected":1579,"healed":192,"dead":134,"quarantined":0,"samples":0,"dateTime":{"$$date":1587009290652},"_id":"y0iZAa0AgzaogpPM"}
+{"infected":"167","healed":"16","dead":"7","quarantined":"101","samples":"5 515","dateTime":{"$$date":1584949048930},"_id":"y23R3jETagEiDXV6"}
+{"infected":"447","healed":"34","dead":"15","quarantined":"73","samples":"13 301","dateTime":{"$$date":1585545972720},"_id":"y3W38fRaGfiVYr62"}
+{"infected":4279,"healed":3156,"dead":595,"quarantined":0,"samples":0,"dateTime":{"$$date":1594900097757},"_id":"y7D29iqAU1LLM4wC"}
+{"infected":"25","healed":"1","dead":"0","quarantined":"79","samples":"1 014","dateTime":{"$$date":1584185122625},"_id":"yAanZt8mt0ORozRg"}
+{"infected":980,"healed":96,"dead":66,"quarantined":0,"samples":0,"dateTime":{"$$date":1586475941303},"_id":"yGSfKRv7h5IeIeVu"}
+{"infected":3954,"healed":2205,"dead":539,"quarantined":0,"samples":0,"dateTime":{"$$date":1591305561321},"_id":"yNslW3D87h7Lgfx0"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584825947947},"_id":"yaPRjIffdwTjVbt5"}
+{"infected":744,"healed":67,"dead":38,"quarantined":0,"samples":0,"dateTime":{"$$date":1586186888564},"_id":"ycuJ5F6uFqdekTme"}
+{"infected":4039,"healed":2391,"dead":553,"quarantined":0,"samples":0,"dateTime":{"$$date":1591901486863},"_id":"ytqmeKWiDmGFSjqJ"}
+{"infected":"58","healed":"2","dead":"1","quarantined":"122","samples":"1 803","dateTime":{"$$date":1584515001302},"_id":"zKhmti9UIvQOPvRc"}
+{"infected":"226","healed":"21","dead":"10","quarantined":"85","samples":"6 817","dateTime":{"$$date":1585140282904},"_id":"zRMlV8H7gP9wPYmv"}
+{"infected":1458,"healed":120,"dead":109,"quarantined":0,"samples":0,"dateTime":{"$$date":1586828626954},"_id":"zRPV2i38MPur8Bc8"}
+{"infected":"73","healed":"2","dead":"1","quarantined":"124","samples":"2 322","dateTime":{"$$date":1584633818682},"_id":"zVuFHfSMeDDpLfFq"}
+{"infected":"492","healed":"37","dead":"16","quarantined":"61","samples":"14 146","dateTime":{"$$date":1585637539536},"_id":"zYKSMguXSdIkGkZB"}
+{"infected":"103","healed":"7","dead":"4","quarantined":"117","samples":"3 447","dateTime":{"$$date":1584813900221},"_id":"zp3EHGLAqZ9UETWP"}
+{"infected":"19","healed":"1","dead":"0","quarantined":"79","samples":"858","dateTime":{"$$date":1584130088719},"_id":"zpQBGN1gp4C6THSi"}
+{"infected":3598,"healed":1454,"dead":470,"quarantined":0,"samples":0,"dateTime":{"$$date":1590009187425},"_id":"zuTNBqCdR7j73JA6"}
+{"infected":4366,"healed":3283,"dead":596,"quarantined":0,"samples":0,"dateTime":{"$$date":1595453094825},"_id":"9Fv0ljEafoXEItaa"}
