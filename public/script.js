@@ -10,17 +10,16 @@ const init = async () => {
     } else if (document.querySelector(`time#${prop}`)) {
       document.querySelector(`time#${prop}`).dateTime = dataJson[prop]
       const updated = new Date(dataJson[prop])
-      document.querySelector(`time#${prop}`).innerText = `${updated.getFullYear()}-${updated.getMonth() + 1}-${updated.getDate()} @ ${updated.getHours()}:${updated.getMinutes()}`
+      document.querySelector(`time#${prop}`).innerText = `${(updated.getFullYear()+"").padStart(2,0)}-${(updated.getMonth() + 1 + "").padStart(2,0)}-${(updated.getDate() + "").padStart(2, 0)} @ ${(updated.getHours() + "").padStart(2, '0')}:${(updated.getMinutes() + "").padStart(2, '0')}`
     }
   }
   
-  const totalInfections = dataJson.infected + dataJson.healed + dataJson.dead
-  
-  document.querySelector('#inf-perc').innerText = (totalInfections / HungaryPop).toPrecision(2) + "%"
-  document.querySelector('#hea-perc').innerText = (dataJson.healed / totalInfections).toPrecision(2) + "%"
-  document.querySelector('#dea-perc').innerText = (dataJson.dead / totalInfections).toPrecision(2) + "%"
-  document.querySelector('#qua-perc').innerText = (dataJson.quarantined / HungaryPop).toPrecision(2) + "%"
-  document.querySelector('#sam-perc').innerText = (totalInfections / dataJson.samples).toPrecision(2) + "%"
+  const totalInfections = parseInt(dataJson.infected,10)
+  const healed = parseInt(dataJson.healed,10)
+  const dead = parseInt(dataJson.dead,10)
+  document.querySelector('#inf-perc').innerText = (100 * (totalInfections / HungaryPop)).toPrecision(2) + "%"
+  document.querySelector('#hea-perc').innerText = (100 *  healed / totalInfections).toPrecision(2) + "%"
+  document.querySelector('#dea-perc').innerText = (100 *  dead / totalInfections).toPrecision(2) + "%"
 }
 
 init()

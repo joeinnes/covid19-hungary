@@ -23,7 +23,7 @@ app.get('/', (request, response) => {
 // send the default array of dreams to the webpage
 app.get('/api/data', async (request, response) => {
     let validDate = new Date()
-    validDate.setMinutes(validDate.getMinutes() - 30)
+    validDate.setMinutes(validDate.getMinutes() - 5)
     let data = await datastore
         .find()
         .sort({dateTime: -1})
@@ -36,35 +36,21 @@ app.get('/api/data', async (request, response) => {
     } else {
       
         try {
-          const newPageReq = await axios.get('https://koronavirus.gov.hu/', {
-              mode: 'no-cors',
-          })
-
-          const newPage = newPageReq.data
-          let newDom = await new JSDOM(newPage)
-
-          const infected = newDom.window.document.querySelectorAll('.diagram-a .number')[0].innerHTML
-          const healed = newDom.window.document.querySelectorAll('.diagram-a .number')[1].innerHTML
-          const dead = newDom.window.document.querySelectorAll('.diagram-a .number')[2].innerHTML
-          const quarantined = newDom.window.document.querySelectorAll('.diagram-a .number')[3].innerHTML
-          const samples = newDom.window.document.querySelectorAll('.diagram-a .number')[4].innerHTML
-
+          const apiData = await axios.get('https://api.thevirustracker.com/free-api?countryTotal=HU')
           const updatedData = {
-            infected: infected,
-            healed: healed,
-            dead: dead,
-            quarantined: quarantined,
-            samples: samples,
+            infected: apiData.data.countrydata[0].total_cases,
+            healed: apiData.data.countrydata[0].total_recovered,
+            dead: apiData.data.countrydata[0].total_deaths,
+            quarantined: 0, //quarantined,
+            samples: 0, //samples,
             dateTime: new Date()
           }
 
           const res = await datastore.insert(updatedData)
           response.json(updatedData)
         } catch (e) { 
-          response.json({
-            error: e,
-            message: 'An unexpected error occurred on the server!'
-          })
+          console.log(e)
+          response.json(data[0])
         }
     }
 })

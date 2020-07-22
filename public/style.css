@@ -6,6 +6,14 @@ body {
     overflow-x: hidden;
 }
 
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5vh;
+  background-color: #eff;
+}
+
 h1,
 h2,
 h3 {
@@ -45,7 +53,7 @@ section div * {
 }
 
 section img {
-    width: 60vw;
+    width: 55vw;
     height: auto;
     max-height: 60vh;
 }
@@ -90,4 +98,8 @@ section#intro-section img {
 
 section#intro-section a {
     color: #eee;
+}
+
+.num#samples {
+  font-size: 5vw;
 }
